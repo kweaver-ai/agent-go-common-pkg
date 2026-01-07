@@ -1,0 +1,7 @@
+.idea
+tmp
+.vscode
+tool/apitesttool/api-test
+tool/apitesttool/apitesttool
+.claude/
+CLAUDE.md
