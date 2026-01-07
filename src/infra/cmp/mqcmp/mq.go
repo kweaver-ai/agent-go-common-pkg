@@ -6,7 +6,7 @@ import (
 
 	"github.com/kweaver-ai/agent-go-common-pkg/src/infra/cmp/icmp"
 	"github.com/kweaver-ai/agent-go-common-pkg/src/infra/common/chelper/cenvhelper"
-	msqclient "devops.aishu.cn/AISHUDevOps/ONE-Architecture/_git/proton-mq-go"
+	msqclient "github.com/kweaver-ai/proton-mq-sdk-go"
 )
 
 var (

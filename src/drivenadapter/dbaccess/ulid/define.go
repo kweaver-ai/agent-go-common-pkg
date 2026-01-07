@@ -9,7 +9,7 @@ import (
 	"github.com/kweaver-ai/agent-go-common-pkg/src/port/driven/idbaccess"
 	"github.com/kweaver-ai/kweaver-go-lib/logger"
 
-	"devops.aishu.cn/AISHUDevOps/ONE-Architecture/_git/proton-rds-sdk-go/sqlx"
+	"github.com/kweaver-ai/proton-rds-sdk-go/sqlx"
 )
 
 var (

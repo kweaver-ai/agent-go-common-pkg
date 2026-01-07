@@ -4,9 +4,9 @@ go 1.24.0
 
 require (
 	github.com/kweaver-ai/kweaver-go-lib v1.0.2
-	devops.aishu.cn/AISHUDevOps/ONE-Architecture/_git/TelemetrySDK-Go.git/exporter/v2 v2.9.0 // indirect
-	devops.aishu.cn/AISHUDevOps/ONE-Architecture/_git/proton-mq-go v1.7.6-for-ar-rm-tlq9-4
-	devops.aishu.cn/AISHUDevOps/ONE-Architecture/_git/proton-rds-sdk-go v1.2.1
+	github.com/kweaver-ai/TelemetrySDK-Go/exporter/v2 v2.10.3 // indirect
+	github.com/kweaver-ai/proton-mq-sdk-go v1.9.1
+	github.com/kweaver-ai/proton-rds-sdk-go v1.4.2
 	github.com/DATA-DOG/go-sqlmock v1.5.2
 	github.com/bwmarrin/snowflake v0.3.0
 	github.com/bytedance/sonic v1.14.1
@@ -44,8 +44,8 @@ require (
 require golang.org/x/exp v0.0.0-20231110203233-9a3e6036ecaa
 
 require (
-	devops.aishu.cn/AISHUDevOps/ONE-Architecture/_git/TelemetrySDK-Go.git/event/v2 v2.9.0 // indirect
-	devops.aishu.cn/AISHUDevOps/ONE-Architecture/_git/TelemetrySDK-Go.git/span/v2 v2.9.0 // indirect
+	github.com/kweaver-ai/TelemetrySDK-Go/event/v2 v2.10.3 // indirect
+	github.com/kweaver-ai/TelemetrySDK-Go/span/v2 v2.10.3 // indirect
 	github.com/BurntSushi/toml v1.5.0 // indirect
 	github.com/avast/retry-go v3.0.0+incompatible // indirect
 	github.com/bytedance/gopkg v0.1.3 // indirect

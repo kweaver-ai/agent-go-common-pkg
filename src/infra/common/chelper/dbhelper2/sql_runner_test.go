@@ -10,7 +10,7 @@ import (
 	"github.com/kweaver-ai/agent-go-common-pkg/src/infra/common/chelper/sqlhelper2"
 	"go.uber.org/mock/gomock"
 
-	"devops.aishu.cn/AISHUDevOps/ONE-Architecture/_git/proton-rds-sdk-go/sqlx"
+	"github.com/kweaver-ai/proton-rds-sdk-go/sqlx"
 	"github.com/DATA-DOG/go-sqlmock"
 	"github.com/stretchr/testify/assert"
 )

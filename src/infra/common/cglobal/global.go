@@ -2,7 +2,7 @@ package cglobal
 
 import (
 	"github.com/kweaver-ai/agent-go-common-pkg/cconf"
-	"devops.aishu.cn/AISHUDevOps/ONE-Architecture/_git/proton-rds-sdk-go/sqlx"
+	"github.com/kweaver-ai/proton-rds-sdk-go/sqlx"
 )
 
 var (

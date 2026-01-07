@@ -41,3 +41,7 @@
 2. [fix] - 修复 input_fields.go 中变量名拼写错误
 3. [chore] - 模块路径迁移至 GitHub，升级 Go 版本至 1.24.0
 
+## 1.1.7
+1. [refact] - 将私有依赖路径迁移至 GitHub（proton-rds-sdk-go、proton-mq-sdk-go、TelemetrySDK-Go）
+2. [chore] - 更新依赖版本：TelemetrySDK-Go v2.10.3, proton-rds-sdk-go v1.4.2, proton-mq-sdk-go v1.9.1
+
