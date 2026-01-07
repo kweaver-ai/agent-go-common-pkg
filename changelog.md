@@ -45,3 +45,7 @@
 1. [refact] - 将私有依赖路径迁移至 GitHub（proton-rds-sdk-go、proton-mq-sdk-go、TelemetrySDK-Go）
 2. [chore] - 更新依赖版本：TelemetrySDK-Go v2.10.3, proton-rds-sdk-go v1.4.2, proton-mq-sdk-go v1.9.1
 
+## 1.1.8
+1. [chore] - 升级 github.com/bytedance/sonic 从 v1.14.1 到 v1.14.2
+2. [chore] - 自动更新相关依赖包版本（包括 go-playground/validator、oklog/ulid、uber/mock 等）
+
