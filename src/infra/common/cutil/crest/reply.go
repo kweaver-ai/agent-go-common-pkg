@@ -1,7 +1,7 @@
 package crest
 
 import (
-	"devops.aishu.cn/AISHUDevOps/DIP/_git/mdl-go-lib/rest"
+	"github.com/kweaver-ai/kweaver-go-lib/rest"
 	"github.com/gin-gonic/gin"
 )
 

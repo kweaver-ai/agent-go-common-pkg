@@ -3,7 +3,7 @@ module github.com/kweaver-ai/agent-go-common-pkg
 go 1.24.0
 
 require (
-	devops.aishu.cn/AISHUDevOps/DIP/_git/mdl-go-lib v0.0.33
+	github.com/kweaver-ai/kweaver-go-lib v1.0.2
 	devops.aishu.cn/AISHUDevOps/ONE-Architecture/_git/TelemetrySDK-Go.git/exporter/v2 v2.9.0 // indirect
 	devops.aishu.cn/AISHUDevOps/ONE-Architecture/_git/proton-mq-go v1.7.6-for-ar-rm-tlq9-4
 	devops.aishu.cn/AISHUDevOps/ONE-Architecture/_git/proton-rds-sdk-go v1.2.1

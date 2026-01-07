@@ -7,7 +7,7 @@ import (
 	"github.com/kweaver-ai/agent-go-common-pkg/src/infra/common/chelper/cenvhelper"
 	"github.com/kweaver-ai/agent-go-common-pkg/src/infra/common/cutil"
 	"github.com/kweaver-ai/agent-go-common-pkg/src/infra/common/cutil/crest"
-	"devops.aishu.cn/AISHUDevOps/DIP/_git/mdl-go-lib/logger"
+	"github.com/kweaver-ai/kweaver-go-lib/logger"
 	"github.com/gin-gonic/gin"
 	"github.com/pkg/errors"
 )

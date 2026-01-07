@@ -3,7 +3,7 @@ package cenum
 import (
 	"errors"
 
-	"devops.aishu.cn/AISHUDevOps/DIP/_git/mdl-go-lib/rest"
+	"github.com/kweaver-ai/kweaver-go-lib/rest"
 )
 
 type AccountType string

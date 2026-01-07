@@ -5,7 +5,7 @@ import (
 
 	"github.com/kweaver-ai/agent-go-common-pkg/src/infra/common/cenum"
 	"github.com/kweaver-ai/agent-go-common-pkg/src/infra/common/cglobal"
-	"devops.aishu.cn/AISHUDevOps/DIP/_git/mdl-go-lib/rest"
+	"github.com/kweaver-ai/kweaver-go-lib/rest"
 	//"github.com/kweaver-ai/agent-go-common-pkg/src/infra/common/types"
 )
 

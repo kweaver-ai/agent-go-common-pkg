@@ -15,7 +15,7 @@ import (
 	"github.com/kweaver-ai/agent-go-common-pkg/src/infra/common/chelper/httphelper"
 	"github.com/kweaver-ai/agent-go-common-pkg/src/infra/common/cutil"
 	"github.com/kweaver-ai/agent-go-common-pkg/src/port/driven/ihttpaccess/iusermanagementacc"
-	"devops.aishu.cn/AISHUDevOps/DIP/_git/mdl-go-lib/logger"
+	"github.com/kweaver-ai/kweaver-go-lib/logger"
 	jsoniter "github.com/json-iterator/go"
 	"github.com/pkg/errors"
 )

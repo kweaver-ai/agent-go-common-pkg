@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"devops.aishu.cn/AISHUDevOps/DIP/_git/mdl-go-lib/rest"
+	"github.com/kweaver-ai/kweaver-go-lib/rest"
 )
 
 func New400Err(ctx context.Context, detail interface{}) (httpErr *rest.HTTPError) {

@@ -6,7 +6,7 @@ import (
 
 	"github.com/kweaver-ai/agent-go-common-pkg/src/infra/common/cconstant"
 	"github.com/kweaver-ai/agent-go-common-pkg/src/port/driven/idbaccess"
-	"devops.aishu.cn/AISHUDevOps/DIP/_git/mdl-go-lib/logger"
+	"github.com/kweaver-ai/kweaver-go-lib/logger"
 
 	dbaulid "github.com/kweaver-ai/agent-go-common-pkg/src/drivenadapter/dbaccess/ulid"
 	"github.com/kweaver-ai/agent-go-common-pkg/src/infra/cmp/redisdlmcmp"

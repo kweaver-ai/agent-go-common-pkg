@@ -7,7 +7,7 @@ import (
 	"github.com/kweaver-ai/agent-go-common-pkg/src/infra/common/cglobal"
 	"github.com/kweaver-ai/agent-go-common-pkg/src/infra/common/chelper/httphelper"
 	"github.com/kweaver-ai/agent-go-common-pkg/src/port/driven/ihttpaccess/iecoindex"
-	"devops.aishu.cn/AISHUDevOps/DIP/_git/mdl-go-lib/logger"
+	"github.com/kweaver-ai/kweaver-go-lib/logger"
 )
 
 var (

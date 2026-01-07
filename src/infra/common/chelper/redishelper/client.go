@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/kweaver-ai/agent-go-common-pkg/cconf"
-	"devops.aishu.cn/AISHUDevOps/DIP/_git/mdl-go-lib/logger"
+	"github.com/kweaver-ai/kweaver-go-lib/logger"
 	redis "github.com/go-redis/redis/v8"
 )
 
